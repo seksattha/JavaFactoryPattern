@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Coffee {
+public abstract class Coffee {
+    public abstract void getDescription();
 }
